@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<PermissionSets>
+    <PermissionSet RoleID="ALX_IMPNOMINA" RoleName="ALX_IMPNOMINA">
+        <Permission>
+            <ObjectType>0</ObjectType>
+            <ObjectID>76050</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>0</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+        <Permission>
+            <ObjectType>0</ObjectType>
+            <ObjectID>76051</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>0</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+        <Permission>
+            <ObjectType>0</ObjectType>
+            <ObjectID>76052</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>0</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+    </PermissionSet>
+</PermissionSets>

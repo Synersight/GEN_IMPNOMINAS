@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Microsoft cloud sandbox",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "93b5e0f0-e7ac-47a3-977d-26cd028118e1", //sinersight
+            //"tenant": "f08e13b4-0a44-4f8e-9fe0-0acb3d5d6d8c",
+            // "tenant": "732793b8-362d-4746-90d4-a509a0e3b014",
+            //"tenant": "3c5e9041-65bc-4d09-90b4-48ac680f3811", //diaconia
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

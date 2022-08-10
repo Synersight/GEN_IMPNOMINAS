@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="GEN_NOMINAS">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2999810687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importación de Nóminas</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3688587854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción cuenta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field AccountDescr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 340367020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account no.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. cuenta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field AccountNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1849317900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aditional Text</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Texto adicional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field AditionalText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1607971347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Categoria - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 41066851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Center</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Centro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Centro - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 514563813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Center description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripcion del centro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field CentroDescrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3519866321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Código empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field CodeEmployee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 4067075841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concept</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Concepto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Concepto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2538338283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accord</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Convenio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Convenio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2979895610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Bank</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cuenta bancaria"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field CuentaBank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 791735451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha/Hora Importación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field DateImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3050519564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Categoría"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field DescCategoria - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3658868994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concept description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción concepto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field DescConcepto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1878318380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accord Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción convenio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field DescConvenio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2692434323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Dimension 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 310556878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Dimension 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 716492225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cod. empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field EmployeeCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3434267879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field EmployeeName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2526681557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field EmployeeNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3026230849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Entidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Entidad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 33027151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripcion de la entidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field EntidadDescrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mss Error</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Msj Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3049571855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date-time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha-hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Fecha hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1456289568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Database date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha base antig."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field FechaBase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2534576010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Forma de pago"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field FormaPago - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1305133035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imported</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Importada - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2272012708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Importe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2017643343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="% Jornada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Jornada - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1584835836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modelo fichero"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Modelo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1584835836 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model 1,Model 2,Model 3,Model 4,Model 5</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modelo 1,Modelo 2,Modelo 3,Modelo 4,Modelo 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Modelo - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3685298555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="CIF/NIF"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field NIF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2674102579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3775878550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 1 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel1Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 292225134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2875043163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 2 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel2Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3949495813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 3</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3172895460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 3 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel3Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 761012728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 4</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3438483561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 4 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel4Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 123316111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 5</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1500501490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 5 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel5Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2036405962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 6</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 6"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2233290423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 6 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 6"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel6Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1398709345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 7</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 7"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 2758214336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 7 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 7"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel7Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 4118404836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 8</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 8"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 946138069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 8 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 8"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel8Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3480708219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 9</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nivel 9"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 899222942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nivel 9 Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción Nivel 9"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nivel9Descrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 491511673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code salary employee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Codigo Nomina empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Nominacode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 172941894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Período"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Periodo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1856965130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Relación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1703566099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sex</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sexo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Sexo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 3175374588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit/Credit</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Debe/Haber"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Usuario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1546832578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Usuario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Usuario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 4025130454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Validada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field Validada - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2999810687 - Field 1750558254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76050_AlxNominas_alx - Field vDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alxia Extension IMPORT SALARY</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Extensiones Alxia IMPORTAR NOMINA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Field 2203404002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Activa"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Field Active_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Field 2200574091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha fin activacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Field EndDate_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Field 3401221097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Field Id_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Field 136255183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name extension</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre de la extensión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Field Name_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4206497793 - Field 1582026186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha inicio activacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76051_ExtensionIMPNOMINA_alx - Field StartDate_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2711819785 - Field 1240338501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76052_Conceptos_alx - Field Comentario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2711819785 - Field 4067075841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concept</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Concepto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76052_Conceptos_alx - Field Concepto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2711819785 - Field 1052421340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2">No. cuenta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76052_Conceptos_alx - Field Cuenta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2711819785 - Field 1345656999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Saldo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76052_Conceptos_alx - Field Saldo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2711819785 - Field 1345656999 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit,Credit</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Debe,Haber"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table 76052_Conceptos_alx - Field Saldo - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2660582311 - NamedType 2798442325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status code: %1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Código de estado: %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit 76051_WebServiceImpNom_alx - NamedType lbCodEstadoErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2660582311 - NamedType 3478109590" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description: %2</source>
+          <note from="Developer" annotates="general" priority="2">Descripción: %2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit 76051_WebServiceImpNom_alx - NamedType lbDescErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2660582311 - NamedType 1474325938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The webservice has returned error:</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El webservice ha devuelto error:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit 76051_WebServiceImpNom_alx - NamedType lbErrorWebserviceErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importación de Nóminas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Method 1480870400 - NamedType 1994841906" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee with code %1 is not created</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El empleado con código %1, no se encuentra dado de alta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Method GenerarLineasDiario - NamedType vEmployee_Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Method 1753709739 - NamedType 1994841906" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee with code %1 is not created</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El empleado con código %1, no se encuentra dado de alta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Method GenerarLineasDiarioModel2 - NamedType vEmployee_Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3688587854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripcion de la cuenta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control AccountDescr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 340367020 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control AccountNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1849317900 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the additional text</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el texto adicional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control AditionalText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el importe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1607971347 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the category</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la categoría"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Categoria - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 41066851 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the center</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el centro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Centro - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 514563813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the center description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del centro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control CentroDescrip - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 4067075841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the concept</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el concepto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Concepto - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2538338283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the accord</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el convenio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Convenio - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2979895610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account bank</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la cuenta banco"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control CuentaBank - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3050519564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the category description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción de categoría"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control DescCategoria - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3658868994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the concept description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripcion concepto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control DescConcepto - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1878318380 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of accord</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del convenio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control DescConvenio - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2692434323 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension 1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la dimension 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Dimension 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 310556878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension 2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la dimension 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Dimension 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 716492225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of employee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el codigo de empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control EmployeeCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3434267879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nombre de empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control EmployeeName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2526681557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the employee no</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el codigo de empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control EmployeeNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3026230849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entity</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la entidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Entidad - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 33027151 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entity description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción de la entidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control EntidadDescrip - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2248886284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the error</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3049571855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date-time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la fecha y hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Fecha hora - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1456289568 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the base date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la fecha base"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control FechaBase - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2534576010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the payment method</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la forma de pago"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control FormaPago - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1305133035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the register is imported</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica si el registro se ha importado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Importada - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2272012708 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el importe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Importe - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2017643343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifica the journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la jornada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Jornada - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3685298555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vat registration no.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el CIF/NIF"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control NIF - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2674102579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3775878550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel1Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 292225134 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2875043163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel2Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3949495813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 3</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3172895460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 3</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel3Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 761012728 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 4</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3438483561 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 4</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel4Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 123316111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 5</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel5 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1500501490 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 5</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel5Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2036405962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 6</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 6"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel6 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2233290423 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 6</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 6"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel6Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1398709345 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 7</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 7"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel7 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 2758214336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 7</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 7"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel7Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 4118404836 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 8</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 8"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel8 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 946138069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 8</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 8"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel8Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3480708219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nivel 9</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el nivel 9"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel9 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 899222942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of nivel 9</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la descripción del nivel 9"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nivel9Descrp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 491511673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el codigo de la nomina del empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Nominacode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 172941894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the period</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el periodo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Periodo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1856965130 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the relation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la relación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Relation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1703566099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sexo of employee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el sexo del empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Sexo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 3175374588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el tipo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1546832578 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the userid</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el usuario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Usuario - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 4025130454 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the register is validated</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica si el registro se ha validado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control Validada - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Control 1750558254 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Control vDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Action 1390873564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To generate template</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Accion para generar asientos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Action GenerarAsientos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Action 1390873564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To-do Template</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Generar Asientos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Action GenerarAsientos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Action 2999055257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Nomina</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Accion para importar nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Action ImportNomina - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Action 2999055257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importar Nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Action ImportNomina - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2999810687 - Action 2999055257 - Method 1377591017 - NamedType 987306765" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Excel file for Import</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Selecciona excel para importar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76050_AlxNominas_alx - Action ImportNomina - Method OnAction - NamedType DialogTitleLabel_Lbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alx_Extension IMPORT SALARY</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Extension IMPORTAR NOMINA Alxia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Control 2203404002 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indica if is Active</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica si está activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Control Active_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Control 2200574091 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the end date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica la fecha de fin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Control EndDate_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Control 3401221097 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Control Id_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Control 136255183 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Control Name_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3067004187 - Control 1582026186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the start date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica la fecha de inicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76051_ExtensionesImpNomina_alx - Control StartDate_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2711819785 - Control 1240338501 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates the comment</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76052_Conceptos_alx - Control Comentario - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2711819785 - Control 4067075841 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates the concept</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el codigo de concepto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76052_Conceptos_alx - Control Concepto - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2711819785 - Control 1052421340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica la cuenta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76052_Conceptos_alx - Control Cuenta - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2711819785 - Control 1345656999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate the balance</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el saldo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page 76052_Conceptos_alx - Control Saldo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3638513965 - Control 1069085605 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 866835530">
+          <source>Specifies the salary code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Indica el codigo de nomina"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76051_AlxEmployeeCard_alx - Control SalaryCode_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2003422217 - Control 3986272442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Conf. Nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76052_AlxCompanyInfo_alx - Control Salary_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2003422217 - Control 2931090542 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Specifies the Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el diario de nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76052_AlxCompanyInfo_alx - Control Diario_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2003422217 - Control 3212122590 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Specifies the model of file</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el modelo de fichero"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76052_AlxCompanyInfo_alx - Control Modelo_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2003422217 - Control 2222919411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Specifies if the register by employee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica si se hace registro por empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76052_AlxCompanyInfo_alx - Control RegisterEmployee_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2003422217 - Control 2103430074 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Specifies the template</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica la seccion del diario nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension 76052_AlxCompanyInfo_alx - Control SeccionNomina_alx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3230246887 - Field 2931090542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Diario Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario de nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76050_AlxCompanyInfo_alx - Field Diario_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3230246887 - Field 3212122590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modelo fichero"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76050_AlxCompanyInfo_alx - Field Modelo_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3230246887 - Field 3212122590 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Model 1,Model 2,Model 3,Model 4,Model 5</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modelo 1,Modelo 2,Modelo 3,Modelo 4,Modelo 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76050_AlxCompanyInfo_alx - Field Modelo_alx - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3230246887 - Field 2222919411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Register by employee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro detallado por empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76050_AlxCompanyInfo_alx - Field RegisterEmployee_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3230246887 - Field 2103430074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Section Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Seccion nominas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76050_AlxCompanyInfo_alx - Field SeccionNomina_alx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1386282401 - Field 1069085605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Salary code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Codigo Nomina"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension 76051_AlxEmployee_alx - Field SalaryCode_alx - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

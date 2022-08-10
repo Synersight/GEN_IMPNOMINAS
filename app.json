@@ -1,0 +1,28 @@
+{
+  "id": "3651f4d8-5f8e-4ef1-b1ea-c50a2cf2d361",
+  "name": "GEN_NOMINAS",
+  "publisher": "Alxia Consultoria e Innovacion",
+  "version": "1.18.0.0",
+  "brief": "Importacion de nominas",
+  "description": "Importacion de nominas",
+  "privacyStatement": "https://www.vs-sistemas.com/",
+  "EULA": "https://www.vs-sistemas.com/",
+  "help": "https://www.vs-sistemas.com/",
+  "url": "https://www.vs-sistemas.com/",
+  "logo": "logo alxia.png",
+  "dependencies": [ ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 76050,
+      "to": 76069
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://GEN_NOMINAS.com/help/",
+  "showMyCode": false,
+  "runtime": "7.0",
+  "features": ["TranslationFile"],
+  "supportedLocales": ["en-US", "es-ES"]
+}

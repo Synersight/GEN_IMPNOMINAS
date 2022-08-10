@@ -1,0 +1,17 @@
+{
+    "name": "BC",
+    "description": "Rules",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "Hidden",
+            "justification": "Marked for removal, be careful with this rule"
+        },
+         {
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Marked for removal, be careful with this rule"
+        }
+    ]
+}
